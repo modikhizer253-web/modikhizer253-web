@@ -1,21 +1,19 @@
-## Hi 👋 I’m Khizer
+## Hi 👋 I'm Khizer
 
-💻 Frontend Developer | Web Builder  
-📍 Based in Pakistan  
-📚 Law Student & Self-Taught Web Dev Enthusiast
+💻 Frontend Web Developer (Beginner)  
+📚 Law Student  
+🌱 Learning JavaScript & modern CSS  
 
-### 💼 Skills
+### 🛠 Skills
 - HTML
 - CSS
 - JavaScript (Basics)
-- Responsive Design
 
-### 🛠 Projects
-Check out my pinned repositories below 👇
+### 📂 Projects
+Check my repositories below 👇
 
-📫 Connect with me:
-🔗 LinkedIn: https://www.linkedin.com/in/your-link
-🌐 Portfolio: https://yourportfolio.netlify.app
+🔗 LinkedIn: https://www.linkedin.com/in/muhammad-khizer-89a177384/
+
 
 <!--
 **modikhizer253-web/modikhizer253-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
