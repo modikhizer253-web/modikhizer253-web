@@ -1,18 +1,20 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Frontend+Web+Developer;HTML+%7C+CSS+%7C+JavaScript;Clean+%26+Responsive+UI;Continuous+Learner" />
+</p>
+
 ## Hi 👋 I'm Khizer
 
-💻 Aspiring Frontend Web Developer  
-🎨 HTML • CSS • JavaScript  
-📚 Law Student | Self-Taught Developer  
-🚀 Focused on responsive UI, clean code, and real projects  
-💼 Open to internships, learning, and collaboration
+💻 Frontend Web Developer  
+🎨 Crafting clean, responsive web interfaces  
+📚 Law Student | Continuous Learner  
 
 ### 🛠 Skills
-- HTML
-- CSS
-- JavaScript (Basics)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
 ### 📂 Projects
-Check my repositories below 👇
+Check my pinned repositories below 👇
 
 🔗 LinkedIn: https://www.linkedin.com/in/muhammad-khizer-89a177384/
 
