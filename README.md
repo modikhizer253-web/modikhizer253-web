@@ -1,8 +1,10 @@
 ## Hi 👋 I'm Khizer
 
-💻 Frontend Web Developer (Beginner)  
-📚 Law Student  
-🌱 Learning JavaScript & modern CSS  
+💻 Aspiring Frontend Web Developer  
+🎨 HTML • CSS • JavaScript  
+📚 Law Student | Self-Taught Developer  
+🚀 Focused on responsive UI, clean code, and real projects  
+💼 Open to internships, learning, and collaboration
 
 ### 🛠 Skills
 - HTML
